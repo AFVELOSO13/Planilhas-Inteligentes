@@ -10,5 +10,5 @@ Utilizei o "ChatGPT" para fazer uma análise das contas de despesas. Para conclu
 ## 🚀 Resultados
 Neste projeto será possível encontrar um dashboard interativo com uma base de dados de entradas e saídas e projeções gráficas. 
 
-<a href="https://github.com/AFVELOSO13/Planilhas-Inteligentes/blob/main/output/Planilha-inteligente-DIO.xlsx" title="View excel now"> 📕Clique aqui para baixar</a>
+<a href="https://github.com/AFVELOSO13/Planilhas-Inteligentes/blob/main/Planilha-inteligente-DIO.xlsx" title="View excel now"> 📕Clique aqui para baixar</a>
 
